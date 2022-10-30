@@ -5,3 +5,5 @@ Kiev is the capital of Ukraine
 Paris is the capital of France
 =======
 >>>>>>> parent of fd83bf3 (Capitals added)
+green
+red
